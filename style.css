@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 100%;
+    height: 800px;
+background-image: url('https://img.freepik.com/free-photo/beautiful-tropical-leaves-white-background-poster-banner-postcard-template_169016-3205.jpg?size=626&ext=jpg&uid=R118780948&ga=GA1.2.90398379.1687709242&semt=sph');
+background-size: cover;
+}
+header h3{
+    text-align: center ;
+    padding-top: 70px;
+    font-size: 1.3rem;
+}
+h1 {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 3.5rem;
+  }
+  .main{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  img{
+    width: 350px;
+    height: 350px;
+    padding: 40px  25px;
+  }
